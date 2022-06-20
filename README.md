@@ -2,7 +2,7 @@
 
 #KETIK
 
-$ git clone https://Lukman-kangrecord/rul_tai
+$ git clone https://github.com/Lukman-kangrecord/rul_tai
 
 $ cd rul_tai
 
